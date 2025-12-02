@@ -10,7 +10,6 @@ from scipy.optimize import linprog
 
 # part 1:
 
-
 # compute productivity score from counts of short and long tasks
 def computeTaskScore(shortTasks: float, longTasks: float) -> float:
     return 4 * shortTasks + 3 * longTasks
