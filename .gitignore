@@ -1,0 +1,6 @@
+Python bytecode artifacts
+pycache/
+*.pyc
+
+Specific file exclusions
+README.md
